@@ -1,0 +1,2 @@
+This is a sample file for CODTECH Internship Task 4.
+Testing AES-256 file encryption and decryption.
